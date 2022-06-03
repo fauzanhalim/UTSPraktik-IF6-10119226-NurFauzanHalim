@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">UTSPraktik-IF6-10119226-NurFauzanHalim</string>
+    <string name="title_form">Form Pengisian Data</string>
+    <string name="title_confirm">Cek Kembali Isian Data</string>
+    <string name="title_info"><b>Info</b></string>
+    <string name="title_success"><b>Berhasil Mendapat Akses</b></string>
+    <string name="desc_info">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="desc_success">Silahkan tap tombol di bawah untuk memulai mengisi form Lapor Kesehatan Harian.</string>
+    <string name="label_nik"><b>NIK</b></string>
+    <string name="label_name"><b>Nama</b></string>
+    <string name="label_date"><b>Tanggal Lahir</b></string>
+    <string name="label_gender"><b>Jenis Kelamin</b></string>
+    <string name="label_relation"><b>Hubungan Dengan Anda</b></string>
+    <string name="value_nik">10119226</string>
+    <string name="value_name">Nur Fauzan Halim</string>
+    <string name="value_date">20 Desember 2002</string>
+    <string name="value_gender_option1">Laki-laki</string>
+    <string name="value_gender_option2">Perempuan</string>
+    <string name="value_relation_option1">Orangtua</string>
+    <string name="value_relation_option2">Suami/Istri</string>
+    <string name="value_relation_option3">Anak</string>
+    <string name="value_relation_option4">Kerabat Lainnya</string>
+    <string name="required"><b>• Harus Diisi</b></string>
+    <string name="btn_next"><b>Selanjutnya</b></string>
+    <string name="btn_save"><b>Simpan</b></string>
+    <string name="btn_edit"><b>Ubah</b></string>
+    <string name="btn_ok"><b>OK</b></string>
+    <string name="img_back">Back Button</string>
+    <string name="img_separator">Separator</string>
+    <string name="img_scroller">Scroller</string>
+    <string name="img_illustration">Illustration</string>
+    <string name="jenis_tes"><b>Jenis Tes</b></string>
+    <string name="value_jenis_tes_option1">Rapid Antigen</string>
+    <string name="value_jenis_tes_option2">PCR</string>
+    <string name="label_date_confirmed"><b>Tanggal Terkonfirmasi</b></string>
+    <string name="value_date_confirmed">04 April 2022</string>
+
+
+</resources>
